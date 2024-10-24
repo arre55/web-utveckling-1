@@ -1,0 +1,24 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.small{ width: 70%;}
+
+.small2{width: 90%;}
+
+.small3{width: 230px;}
+
+.small4{width:210px ;}
+
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+  }
