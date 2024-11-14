@@ -1,0 +1,10 @@
+.linkcolor{color: rgb(255, 255, 255);}
+
+.background-color{background-color: rgb(9, 1, 239);}
+
+.grid-container{
+display:grid;
+grid-template-columns: auto auto auto;
+}
+
+.center{text-align: center;}
