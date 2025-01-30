@@ -1,6 +1,6 @@
-.linkcolor{color: rgb(255, 255, 255);}
+.linkcolor{color: rgb(211, 15, 15);}
 
-.background-color{background-color: rgb(9, 1, 239);}
+.background-color{background-color: rgb(242, 152, 49);}
 
 .grid-container{
 display:grid;
@@ -8,3 +8,4 @@ grid-template-columns: auto auto auto;
 }
 
 .center{text-align: center;}
+
