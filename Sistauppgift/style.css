@@ -37,4 +37,14 @@ body {
     .sidenav a {font-size: 18px;}
   }
 
-  .margine{margin-left: 120px;}
+  .margine{margin-left: 160px;}
+
+  .color{color: blue;}
+
+  .img{width: 50%;
+  
+  height: 50%;
+
+justify-items: center;}
+
+  
